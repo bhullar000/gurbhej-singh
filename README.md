@@ -47,9 +47,8 @@ I help companies **ship faster, scale reliably, and cut cloud costs**. I take pr
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Genomics Pipeline on AWS Batch](https://github.com/gurbhej-singh/nextflow-genomics-demo)** | Reproducible Nextflow / nf-core pipeline running long jobs on AWS Batch | Nextflow, Docker, AWS Batch, ECR, S3 |
-| **[AWS Deploy Template](https://github.com/gurbhej-singh/aws-deploy-template)** | Docker → ECR → AWS Batch/EC2 deployment with custom AMI & launch template | Terraform, GitHub Actions, AWS |
-| **[Case Study: Genomics Processing](https://github.com/gurbhej-singh/case-study-genomics)** | Architecture write-up of a production genomics pipeline | Nextflow, AWS Batch |
+| **[AWS Deploy Template](| **[Genomics Pipeline on AWS Batch](https://github.com/bhullar000/gurbhej-singh/tree/main/aws-deploy-template)** | Reproducible Nextflow / nf-core pipeline running long jobs on AWS Batch | Nextflow, Docker, AWS Batch, ECR, S3 |)** | Docker → ECR → AWS Batch/EC2 deployment with custom AMI & launch template | Terraform, GitHub Actions, AWS |
+| **[Case Study: Genomics Processing](https://github.com/bhullar000/gurbhej-singh/tree/main/case-study-genomics)** | Architecture write-up of a production genomics pipeline | Nextflow, AWS Batch |
 
 <!-- Update the repo links once you push these. -->
 
