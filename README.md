@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/">🟢 100% Job Success · Top Rated on Upwork</a> ·
-  <a href="https://gurbhejsingh.dev">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/gurbhejsingh">💼 LinkedIn</a> ·
-  <a href="mailto:hello@gurbhejsingh.dev">✉️ Email</a>
+  <a href="https://www.upwork.com/freelancers/~01670bc244645b7ec0?mp_source=share">🟢 100% Job Success · Top Rated on Upwork</a> ·
+  <a href="https://coding-expert.bhullarji621.workers.dev/">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/gurbhejb/">💼 LinkedIn</a> ·
+  <a href="mailto:bhullarji621@gmail.com">✉️ Email</a>
 </p>
 
 <!-- Replace the links above with your real URLs. -->
