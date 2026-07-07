@@ -1,0 +1,11 @@
+# Local development / smoke-test before the image is pushed to ECR.
+services:
+  pipeline:
+    build:
+      context: ./app
+    image: genomics-pipeline:local
+    environment:
+      - AWS_REGION=us-east-1
+    command: ["run", "--input", "./data/samplesheet.csv"]
+    volumes:
+      - ./data:/app/data
